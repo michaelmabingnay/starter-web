@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 This is simple deployment.
 
 ## How To Contribute
+Please fork this reposittory and then issue Pull Request for review
 
 ## Copyright
 2014 GIT
