@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 This is simple deployment.
 
 ## How To Contribute
+
+## Copyright
+2014 GIT
